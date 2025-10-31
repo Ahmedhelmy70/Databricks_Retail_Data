@@ -56,4 +56,4 @@ The Power BI dashboard provides a high-level overview of sales performance, incl
 * **Geographical Analysis:** A bar chart and a map showing the sum of price by country (Egypt, Saudi Arabia, UAE).
 * **Category Breakdown:** A donut chart showing the sales distribution by product category (Electronics, Fitness, Accessories, Stationery).
 
-![Retail Sales Dashboard](images.Dashboard.png)
+![Retail Sales Dashboard](images/Dashboard.png)
